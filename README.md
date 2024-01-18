@@ -10,6 +10,7 @@ node index.js
 
 # adult lion cub assignment raffles
 #1 put conservation data in `conservation_data/`and hash the dataset
+mkdir ./conservation_data
 node hash_conservation_data.js
 
 #2 run the ruffle with the public seed
