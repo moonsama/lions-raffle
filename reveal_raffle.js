@@ -1,7 +1,10 @@
 const seedrandom = require('seedrandom')
 const fs = require('fs')
 
-const rng = seedrandom('XXXXXXXXXXXXXXXXXX')
+// https://explorer.exosama.com/block/7856969
+// https://twitter.com/MoonsamaNFT/status/1748326869441577046
+// https://t.me/c/1779168373/369219/446976
+const rng = seedrandom('0x1dae7e715b814a599d42c3abb434be387c0e1c5bfd2ec90698095fdad29318e2')
 
 const list = JSON.parse(fs.readFileSync('hashed_conservation_dataset.json', 'utf8'))
 
