@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rbaam3",
+      "sex": "male",
+      "dateborn": "2012-09-01",
+      "natal_pride": "rekero_breakaways",
+      "current_pride_association": "rekero_breakaways_dm1",
+      "current_pride_normalized": "rekeros",
+      "last_seen": "2019-10-03",
+      "date_of_dispersal": "2015-02-22",
+      "dead": false,
+      "age_last_seen": 85,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:50.472Z",
+      "date_created": "2023-08-22T10:49:06.937Z"
+    }
+  ]
+}

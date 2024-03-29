@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "cheaf3",
+      "sex": "female",
+      "dateborn": "2011-07-01",
+      "natal_pride": "cheli",
+      "current_pride_association": "cheli",
+      "current_pride_normalized": "cheli",
+      "last_seen": "2023-03-21",
+      "date_of_dispersal": "2013-09-28",
+      "dead": false,
+      "age_last_seen": 140,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": false,
+      "name": "angavu",
+      "date_updated": "2024-01-04T12:06:25.550Z",
+      "date_created": "2023-08-22T10:48:47.996Z"
+    }
+  ]
+}

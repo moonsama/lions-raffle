@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "angbm2",
+      "sex": "male",
+      "dateborn": "2017-01-01",
+      "natal_pride": "angama",
+      "current_pride_association": "angama_dm2",
+      "current_pride_normalized": "angama",
+      "last_seen": "2018-10-14",
+      "date_of_dispersal": "2018-10-14",
+      "dead": false,
+      "age_last_seen": 21,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:24.805Z",
+      "date_created": "2023-08-22T10:48:47.509Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "chef2",
+      "sex": "female",
+      "dateborn": "2001-10-01",
+      "natal_pride": "unknown",
+      "current_pride_association": "cheli",
+      "current_pride_normalized": "cheli",
+      "last_seen": "2016-09-09",
+      "date_of_dispersal": "2013-09-28",
+      "dead": true,
+      "age_last_seen": 179,
+      "date_of_death": null,
+      "cause_of_death": "natural",
+      "association": "pride",
+      "is_missing": true,
+      "name": "siti",
+      "date_updated": "2024-01-04T12:06:27.003Z",
+      "date_created": "2023-08-22T10:48:49.285Z"
+    }
+  ]
+}

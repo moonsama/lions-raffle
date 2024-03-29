@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "marem1",
+      "sex": "male",
+      "dateborn": "2014-01-19",
+      "natal_pride": "marsh_pride",
+      "current_pride_association": "marsh_dm1",
+      "current_pride_normalized": "marsh",
+      "last_seen": "2017-09-25",
+      "date_of_dispersal": "2016-09-10",
+      "dead": false,
+      "age_last_seen": 44,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": "topknot",
+      "date_updated": "2024-01-04T12:06:40.411Z",
+      "date_created": "2023-08-22T10:48:59.538Z"
+    }
+  ]
+}

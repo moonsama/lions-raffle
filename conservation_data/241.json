@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "margf1",
+      "sex": "female",
+      "dateborn": "2016-03-01",
+      "natal_pride": "marsh_pride",
+      "current_pride_association": "marsh_pride",
+      "current_pride_normalized": "marsh",
+      "last_seen": "2022-03-31",
+      "date_of_dispersal": "2013-11-26",
+      "dead": true,
+      "age_last_seen": 72,
+      "date_of_death": "2022-05-15",
+      "cause_of_death": "natural",
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:40.503Z",
+      "date_created": "2023-08-22T10:48:59.630Z"
+    }
+  ]
+}

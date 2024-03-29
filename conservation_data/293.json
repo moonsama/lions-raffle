@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "monm2",
+      "sex": "male",
+      "dateborn": "2005-01-01",
+      "natal_pride": "moniko",
+      "current_pride_association": "moniko_males",
+      "current_pride_normalized": "moniko",
+      "last_seen": "2020-02-17",
+      "date_of_dispersal": "2013-08-15",
+      "dead": true,
+      "age_last_seen": 181,
+      "date_of_death": "2020-11-18",
+      "cause_of_death": "natural",
+      "association": "dispersed",
+      "is_missing": true,
+      "name": "lolpapit",
+      "date_updated": "2024-01-04T12:06:42.594Z",
+      "date_created": "2023-08-22T10:49:01.192Z"
+    }
+  ]
+}

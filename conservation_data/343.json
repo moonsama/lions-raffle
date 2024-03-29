@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rngdm4",
+      "sex": "male",
+      "dateborn": "2015-01-11",
+      "natal_pride": "rongai",
+      "current_pride_association": "rongai_dm4",
+      "current_pride_normalized": "rongai",
+      "last_seen": "2022-08-15",
+      "date_of_dispersal": "2018-02-06",
+      "dead": false,
+      "age_last_seen": 91,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": false,
+      "name": "olowang",
+      "date_updated": "2024-01-04T12:06:51.612Z",
+      "date_created": "2023-08-22T10:49:07.748Z"
+    }
+  ]
+}

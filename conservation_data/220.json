@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "majf1",
+      "sex": "female",
+      "dateborn": "2009-05-01",
+      "natal_pride": "maji_ya_fisi",
+      "current_pride_association": "maji_ya_fisi",
+      "current_pride_normalized": "maji_ya_fisi",
+      "last_seen": "2019-08-19",
+      "date_of_dispersal": "2013-10-19",
+      "dead": false,
+      "age_last_seen": 123,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": "location: maji ya fisi, kichaka ya round, hammerkop l, talek gate",
+      "date_updated": "2024-01-04T12:06:39.872Z",
+      "date_created": "2023-08-22T10:48:59.123Z"
+    }
+  ]
+}

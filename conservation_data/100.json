@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "enekf2",
+      "sex": "female",
+      "dateborn": "2017-03-01",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria",
+      "current_pride_normalized": "enesikiria",
+      "last_seen": "2018-02-28",
+      "date_of_dispersal": "2013-11-27",
+      "dead": true,
+      "age_last_seen": 11,
+      "date_of_death": "2018-04-06",
+      "cause_of_death": "natural",
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:30.175Z",
+      "date_created": "2023-08-22T10:48:51.681Z"
+    }
+  ]
+}

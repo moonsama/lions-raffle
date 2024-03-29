@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "chedf3",
+      "sex": "female",
+      "dateborn": "2016-01-01",
+      "natal_pride": "cheli",
+      "current_pride_association": "cheli",
+      "current_pride_normalized": "cheli",
+      "last_seen": "2017-04-02",
+      "date_of_dispersal": "2013-09-28",
+      "dead": true,
+      "age_last_seen": 15,
+      "date_of_death": null,
+      "cause_of_death": "natural",
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:26.602Z",
+      "date_created": "2023-08-22T10:48:48.965Z"
+    }
+  ]
+}

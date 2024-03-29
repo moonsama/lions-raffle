@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "enef4",
+      "sex": "female",
+      "dateborn": "2006-07-01",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria",
+      "current_pride_normalized": "enesikiria",
+      "last_seen": "2015-01-11",
+      "date_of_dispersal": "2013-11-27",
+      "dead": true,
+      "age_last_seen": 102,
+      "date_of_death": null,
+      "cause_of_death": "unknown",
+      "association": "pride",
+      "is_missing": true,
+      "name": "mickey",
+      "date_updated": "2024-01-04T12:06:29.583Z",
+      "date_created": "2023-08-22T10:48:51.220Z"
+    }
+  ]
+}

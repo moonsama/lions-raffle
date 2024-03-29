@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "majcu1",
+      "sex": "unk",
+      "dateborn": "2015-01-11",
+      "natal_pride": "maji_ya_fisi",
+      "current_pride_association": "maji_ya_fisi",
+      "current_pride_normalized": "maji_ya_fisi",
+      "last_seen": "2016-03-23",
+      "date_of_dispersal": "2013-10-19",
+      "dead": false,
+      "age_last_seen": 14,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:39.557Z",
+      "date_created": "2023-08-22T10:48:58.882Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rngam1",
+      "sex": "male",
+      "dateborn": "2011-03-01",
+      "natal_pride": "rongai",
+      "current_pride_association": "rongai_dm1",
+      "current_pride_normalized": "rongai",
+      "last_seen": "2018-08-24",
+      "date_of_dispersal": "2014-12-22",
+      "dead": false,
+      "age_last_seen": 89,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": "earless",
+      "date_updated": "2024-01-04T12:06:51.382Z",
+      "date_created": "2023-08-22T10:49:07.581Z"
+    }
+  ]
+}

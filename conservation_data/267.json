@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "monf1",
+      "sex": "female",
+      "dateborn": "2006-01-01",
+      "natal_pride": "moniko",
+      "current_pride_association": "moniko",
+      "current_pride_normalized": "moniko",
+      "last_seen": "2014-02-08",
+      "date_of_dispersal": "2013-06-21",
+      "dead": true,
+      "age_last_seen": 97,
+      "date_of_death": "2014-04-08",
+      "cause_of_death": "natural",
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:41.982Z",
+      "date_created": "2023-08-22T10:49:00.726Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "eneaf1",
+      "sex": "female",
+      "dateborn": "2009-07-01",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria",
+      "current_pride_normalized": "enesikiria",
+      "last_seen": "2015-04-26",
+      "date_of_dispersal": "2013-11-27",
+      "dead": true,
+      "age_last_seen": 69,
+      "date_of_death": "2015-04-28",
+      "cause_of_death": "unknown",
+      "association": "pride",
+      "is_missing": true,
+      "name": "spot",
+      "date_updated": "2024-01-04T12:06:29.061Z",
+      "date_created": "2023-08-22T10:48:50.830Z"
+    }
+  ]
+}

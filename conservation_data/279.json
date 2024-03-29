@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "monfm3",
+      "sex": "male",
+      "dateborn": "2014-05-01",
+      "natal_pride": "moniko",
+      "current_pride_association": "moniko_dm4_six_pack",
+      "current_pride_normalized": "moniko",
+      "last_seen": "2022-08-27",
+      "date_of_dispersal": "2015-12-15",
+      "dead": false,
+      "age_last_seen": 99,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": false,
+      "name": "kibogoyo",
+      "date_updated": "2024-01-04T12:06:42.227Z",
+      "date_created": "2023-08-22T10:49:00.917Z"
+    }
+  ]
+}

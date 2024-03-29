@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "enehm3",
+      "sex": "male",
+      "dateborn": "2014-10-28",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria_dm7",
+      "current_pride_normalized": "enesikiria",
+      "last_seen": "2017-04-27",
+      "date_of_dispersal": "2017-03-22",
+      "dead": false,
+      "age_last_seen": 30,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:29.900Z",
+      "date_created": "2023-08-22T10:48:51.483Z"
+    }
+  ]
+}

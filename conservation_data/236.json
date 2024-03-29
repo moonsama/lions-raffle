@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "marcf4",
+      "sex": "female",
+      "dateborn": "2012-07-01",
+      "natal_pride": "marsh_pride",
+      "current_pride_association": "marsh_pride",
+      "current_pride_normalized": "marsh",
+      "last_seen": "2022-10-12",
+      "date_of_dispersal": "2013-11-26",
+      "dead": false,
+      "age_last_seen": 123,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": false,
+      "name": "dada",
+      "date_updated": "2024-01-04T12:06:40.305Z",
+      "date_created": "2023-08-22T10:48:59.449Z"
+    }
+  ]
+}

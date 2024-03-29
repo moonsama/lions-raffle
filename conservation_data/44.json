@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "checm2",
+      "sex": "male",
+      "dateborn": "2014-09-15",
+      "natal_pride": "cheli",
+      "current_pride_association": "cheli_dm3",
+      "current_pride_normalized": "cheli",
+      "last_seen": "2021-08-12",
+      "date_of_dispersal": "2017-07-10",
+      "dead": false,
+      "age_last_seen": 83,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:26.131Z",
+      "date_created": "2023-08-22T10:48:48.449Z"
+    }
+  ]
+}

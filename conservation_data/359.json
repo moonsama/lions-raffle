@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "sanef2",
+      "sex": "female",
+      "dateborn": "2017-11-15",
+      "natal_pride": "sand_river_pride",
+      "current_pride_association": "sand_river_pride",
+      "current_pride_normalized": "sand_river",
+      "last_seen": "2019-08-19",
+      "date_of_dispersal": "2014-07-11",
+      "dead": false,
+      "age_last_seen": 21,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:54.562Z",
+      "date_created": "2023-08-22T10:49:10.116Z"
+    }
+  ]
+}

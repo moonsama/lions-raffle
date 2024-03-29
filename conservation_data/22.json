@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "cheaf9",
+      "sex": "female",
+      "dateborn": "2011-07-01",
+      "natal_pride": "cheli",
+      "current_pride_association": "serian",
+      "current_pride_normalized": "serian",
+      "last_seen": "2023-03-22",
+      "date_of_dispersal": "2017-02-03",
+      "dead": false,
+      "age_last_seen": 140,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": false,
+      "name": "nairoshi",
+      "date_updated": "2024-01-04T12:06:25.679Z",
+      "date_created": "2023-08-22T10:48:48.109Z"
+    }
+  ]
+}

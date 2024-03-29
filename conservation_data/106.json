@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "enelm1",
+      "sex": "male",
+      "dateborn": "2017-09-01",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria_dm9",
+      "current_pride_normalized": "enesikiria",
+      "last_seen": "2023-04-03",
+      "date_of_dispersal": null,
+      "dead": false,
+      "age_last_seen": 67,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": false,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:30.369Z",
+      "date_created": "2023-08-22T10:48:51.829Z"
+    }
+  ]
+}

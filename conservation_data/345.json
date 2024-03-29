@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rngf2",
+      "sex": "female",
+      "dateborn": "2007-01-01",
+      "natal_pride": "unknown",
+      "current_pride_association": "rongai",
+      "current_pride_normalized": "rongai",
+      "last_seen": "2016-10-22",
+      "date_of_dispersal": "2013-09-13",
+      "dead": false,
+      "age_last_seen": 117,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:51.674Z",
+      "date_created": "2023-08-22T10:49:07.818Z"
+    }
+  ]
+}

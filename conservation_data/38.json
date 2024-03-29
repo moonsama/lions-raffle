@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "checf3",
+      "sex": "female",
+      "dateborn": "2014-09-15",
+      "natal_pride": "cheli",
+      "current_pride_association": "serian",
+      "current_pride_normalized": "serian",
+      "last_seen": "2021-10-01",
+      "date_of_dispersal": "2017-02-03",
+      "dead": false,
+      "age_last_seen": 85,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": "mpishi",
+      "date_updated": "2024-01-04T12:06:26.003Z",
+      "date_created": "2023-08-22T10:48:48.368Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "ilkdu5",
+      "sex": "unk",
+      "dateborn": "2015-10-28",
+      "natal_pride": "ilkisiusiu",
+      "current_pride_association": "ilkisiusiu",
+      "current_pride_normalized": "ilkisiusiu",
+      "last_seen": "2016-07-11",
+      "date_of_dispersal": "2013-12-04",
+      "dead": false,
+      "age_last_seen": 9,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:33.390Z",
+      "date_created": "2023-08-22T10:48:54.100Z"
+    }
+  ]
+}

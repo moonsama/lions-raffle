@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "figaf3",
+      "sex": "female",
+      "dateborn": "2014-04-01",
+      "natal_pride": "fig_tree_pride",
+      "current_pride_association": "fig_tree_pride",
+      "current_pride_normalized": "fig_tree",
+      "last_seen": "2020-09-19",
+      "date_of_dispersal": "2014-04-30",
+      "dead": false,
+      "age_last_seen": 77,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:32.556Z",
+      "date_created": "2023-08-22T10:48:53.436Z"
+    }
+  ]
+}

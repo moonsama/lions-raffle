@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rekam2",
+      "sex": "male",
+      "dateborn": "2010-11-01",
+      "natal_pride": "rekero",
+      "current_pride_association": "rekero_dm1",
+      "current_pride_normalized": "rekero",
+      "last_seen": "2022-08-28",
+      "date_of_dispersal": "2014-02-18",
+      "dead": false,
+      "age_last_seen": 141,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": false,
+      "name": "ron 2",
+      "date_updated": "2024-01-04T12:06:50.738Z",
+      "date_created": "2023-08-22T10:49:07.126Z"
+    }
+  ]
+}

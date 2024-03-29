@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "rngcm1",
+      "sex": "male",
+      "dateborn": "2013-10-27",
+      "natal_pride": "rongai",
+      "current_pride_association": "rongai_dm3",
+      "current_pride_normalized": "rongai",
+      "last_seen": "2015-04-21",
+      "date_of_dispersal": null,
+      "dead": false,
+      "age_last_seen": 18,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:51.446Z",
+      "date_created": "2023-08-22T10:49:07.627Z"
+    }
+  ]
+}

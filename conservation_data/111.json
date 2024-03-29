@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "engcf1",
+      "sex": "female",
+      "dateborn": "2013-01-01",
+      "natal_pride": "engoyanai",
+      "current_pride_association": "engoyanai_df3/oldikdik",
+      "current_pride_normalized": "oldikdik",
+      "last_seen": "2018-10-17",
+      "date_of_dispersal": "2015-08-25",
+      "dead": false,
+      "age_last_seen": 69,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:30.895Z",
+      "date_created": "2023-08-22T10:48:52.242Z"
+    }
+  ]
+}

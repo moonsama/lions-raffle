@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "checf6",
+      "sex": "female",
+      "dateborn": "2015-02-15",
+      "natal_pride": "cheli",
+      "current_pride_association": "buibui_pride",
+      "current_pride_normalized": "buibui",
+      "last_seen": "2019-09-06",
+      "date_of_dispersal": "2018-08-30",
+      "dead": false,
+      "age_last_seen": 55,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:26.069Z",
+      "date_created": "2023-08-22T10:48:48.409Z"
+    }
+  ]
+}

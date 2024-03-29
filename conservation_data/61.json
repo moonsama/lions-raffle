@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "chef1",
+      "sex": "female",
+      "dateborn": "2002-01-01",
+      "natal_pride": "unknown",
+      "current_pride_association": "cheli",
+      "current_pride_normalized": "cheli",
+      "last_seen": "2015-02-01",
+      "date_of_dispersal": "2013-09-28",
+      "dead": true,
+      "age_last_seen": 157,
+      "date_of_death": "2015-06-07",
+      "cause_of_death": "problem_animal_control",
+      "association": "pride",
+      "is_missing": true,
+      "name": "nuru",
+      "date_updated": "2024-01-04T12:06:26.978Z",
+      "date_created": "2023-08-22T10:48:49.269Z"
+    }
+  ]
+}

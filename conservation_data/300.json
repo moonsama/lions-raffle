@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "oldbm1",
+      "sex": "male",
+      "dateborn": "2016-11-19",
+      "natal_pride": "engoyanai_df3/oldikdik",
+      "current_pride_association": "oldikdik_dm2",
+      "current_pride_normalized": "oldikdik",
+      "last_seen": "2022-08-22",
+      "date_of_dispersal": "2022-04-09",
+      "dead": false,
+      "age_last_seen": 69,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": false,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:47.441Z",
+      "date_created": "2023-08-22T10:49:04.661Z"
+    }
+  ]
+}

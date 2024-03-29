@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "enemm2",
+      "sex": "male",
+      "dateborn": "2018-05-01",
+      "natal_pride": "enesikiria",
+      "current_pride_association": "enesikiria_dm10",
+      "current_pride_normalized": "enesikiria0",
+      "last_seen": "2019-02-09",
+      "date_of_dispersal": "2020-03-01",
+      "dead": false,
+      "age_last_seen": 9,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:30.463Z",
+      "date_created": "2023-08-22T10:48:51.900Z"
+    }
+  ]
+}

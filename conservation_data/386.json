@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "spim1",
+      "sex": "male",
+      "dateborn": "2014-04-01",
+      "natal_pride": "unknown",
+      "current_pride_association": "serena_rongai_pride",
+      "current_pride_normalized": "serena_rongai",
+      "last_seen": "2021-08-18",
+      "date_of_dispersal": "2021-09-01",
+      "dead": false,
+      "age_last_seen": 88,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": true,
+      "name": "spikey",
+      "date_updated": "2024-01-04T12:06:57.108Z",
+      "date_created": "2023-08-22T10:49:11.959Z"
+    }
+  ]
+}

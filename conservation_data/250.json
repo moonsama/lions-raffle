@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "mbaam2",
+      "sex": "male",
+      "dateborn": "2014-01-01",
+      "natal_pride": "marsh_breakaways",
+      "current_pride_association": "marsh_breakaways_dm1",
+      "current_pride_normalized": "marshs",
+      "last_seen": "2018-10-19",
+      "date_of_dispersal": "2018-10-19",
+      "dead": false,
+      "age_last_seen": 57,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": "location:",
+      "date_updated": "2024-01-04T12:06:41.011Z",
+      "date_created": "2023-08-22T10:49:00.007Z"
+    }
+  ]
+}

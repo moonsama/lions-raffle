@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "monm1",
+      "sex": "male",
+      "dateborn": "2005-01-01",
+      "natal_pride": "moniko",
+      "current_pride_association": "moniko_males",
+      "current_pride_normalized": "moniko",
+      "last_seen": "2020-09-01",
+      "date_of_dispersal": "2013-08-15",
+      "dead": false,
+      "age_last_seen": 188,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "dispersed",
+      "is_missing": true,
+      "name": "olbarnoti",
+      "date_updated": "2024-01-04T12:06:42.578Z",
+      "date_created": "2023-08-22T10:49:01.181Z"
+    }
+  ]
+}

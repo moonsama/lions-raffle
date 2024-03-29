@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "majdm1",
+      "sex": "male",
+      "dateborn": "2016-10-01",
+      "natal_pride": "maji_ya_fisi",
+      "current_pride_association": "maji_ya_fisi_dm3",
+      "current_pride_normalized": "maji_ya_fisi",
+      "last_seen": "2022-09-18",
+      "date_of_dispersal": "2020-01-15",
+      "dead": false,
+      "age_last_seen": 71,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "coalition",
+      "is_missing": false,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:39.615Z",
+      "date_created": "2023-08-22T10:48:58.918Z"
+    }
+  ]
+}

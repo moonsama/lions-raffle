@@ -1,0 +1,23 @@
+{
+  "conservation_data": [
+    {
+      "id": "monff4",
+      "sex": "female",
+      "dateborn": "2014-09-21",
+      "natal_pride": "moniko",
+      "current_pride_association": "hammerkop_moniko_df4",
+      "current_pride_normalized": "hammerkop_moniko",
+      "last_seen": "2022-07-01",
+      "date_of_dispersal": "2016-11-08",
+      "dead": false,
+      "age_last_seen": 94,
+      "date_of_death": null,
+      "cause_of_death": null,
+      "association": "pride",
+      "is_missing": false,
+      "name": null,
+      "date_updated": "2024-01-04T12:06:42.144Z",
+      "date_created": "2023-08-22T10:49:00.859Z"
+    }
+  ]
+}
